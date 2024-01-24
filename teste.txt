@@ -3,4 +3,6 @@ Aula de GIT
 
 relembrando o git
 
-novamente alterando e salvando
+novamente alterando e salvando, ajude nós com um café...
+
+vamos commitar direto novamente
